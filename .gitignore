@@ -1,6 +1,6 @@
 # Data folder
-data/
-
+#data/
+data_unrel/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

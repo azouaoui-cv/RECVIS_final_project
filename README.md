@@ -39,5 +39,6 @@ I was able to reverse-engineer most of the steps required to produce the interme
 
 * We provide the results in the ``visu`` folder.
 * Results table can be found in the ``report`` folder.
-
-
+* We provide the pre-processed files in the ``data`` folder.
+* We provide the configuration files in the ``cfgs`` folder.
+* We provide the notebooks used to pre-process the files.
